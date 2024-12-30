@@ -1,0 +1,9 @@
+.container {
+  background-color: #000000;
+  min-height: 100dvh;
+  max-height: 100dvh;
+}
+
+.container label {
+  color: white;
+}
